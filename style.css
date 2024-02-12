@@ -206,6 +206,7 @@ body {
   padding: 20px;
   width: 100vw;
   background-color: #F7F7F7;
+  z-index: -1;
 }
 
 #service-container  {
