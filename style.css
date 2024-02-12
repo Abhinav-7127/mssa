@@ -316,7 +316,7 @@ body {
   }
   .type-container p span.typed-text,   .type-container p span{
     font-size: 7vw;
-    color: var(--head-nav-color-mobile);
+    color: orange;
   }
   .navbar{
     background-color: transparent;
@@ -335,6 +335,9 @@ body {
   }
   .logo{
     font-size: 4rem;
+  }
+  .services{
+    background-color: #F7F7F7;
   }
   #service-container{
     width: 100%;
