@@ -343,7 +343,7 @@ body {
     padding: 30px;
   }
   .service-card{
-    margin: auto 70px;
+    max-width: 25vw;
     transition: all 0.3s ease;
   }
   .service-card:hover{
