@@ -123,6 +123,7 @@ header {
   position: relative;
   height: calc(90vh - var(--nav-height));
   background: url('hero.jpg') no-repeat center center/cover;
+  box-shadow: 0px 3px black 3px 3px;
 }
 
 .overlay {
