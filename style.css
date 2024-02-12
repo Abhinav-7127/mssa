@@ -316,7 +316,7 @@ body {
   }
   .type-container p span.typed-text,   .type-container p span{
     font-size: 7vw;
-    color: orange;
+    color: #34f000;
   }
   .navbar{
     background-color: transparent;
